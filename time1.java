@@ -1,3 +1,4 @@
+//exo 8.7
 import java.util.Scanner;
 public class time1{
  public static void main(String[] args){
